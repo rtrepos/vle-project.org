@@ -1,0 +1,4 @@
+inkscape --export-png=DEVS_states.png --export-background=white --export-dpi=300 DEVS_states.svg
+inkscape --export-png=temporal_values.png --export-background=white --export-dpi=300 temporal_values.svg
+inkscape --export-png=userInterfaceDiscreteTime.png --export-background=white --export-dpi=200 userInterfaceDiscreteTime.svg
+inkscape --export-png=vle_ode_userInterface.png --export-background=white --export-dpi=150 vle_ode_userInterface.svg
